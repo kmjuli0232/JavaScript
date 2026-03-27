@@ -4,7 +4,7 @@
 // ✔️1. number:- represent numeric values, including integers and floating-point numbers
 
 // var num =3;
-// console.log(num);
+// console.log(num); 
 
 // let number =45;
 // console.log(number);
