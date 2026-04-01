@@ -387,12 +387,12 @@
 
 // 9 mrch
 //✨ pure function 
-debugger
+// debugger
 
-function add(a,b){
-    return a+b 
-}
-console.log(add(3,7));
+// function add(a,b){
+//     return a+b 
+// }
+// console.log(add(3,7));
 
 
 // function meet(x, z) {
@@ -401,16 +401,16 @@ console.log(add(3,7));
 // console.log(meet(7, 3));
 
 //impure function
-let total = 0;
+// let total = 0;
 
-function sum(num){
-    total = total+num;
-    return total;
-}
-console.log(sum(4));
-console.log(sum(4));
-console.log(sum(4));
-console.log(sum(4));
+// function sum(num){
+//     total = total+num;
+//     return total;
+// }
+// console.log(sum(4));
+// console.log(sum(4));
+// console.log(sum(4));
+// console.log(sum(4));
 
 // let count = 0;
 // function increase(){

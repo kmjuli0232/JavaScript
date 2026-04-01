@@ -3,13 +3,13 @@
 // const cssImage = document.getElementsByClassName('css-image');
 // console.log(cssImage);
 //  const cssImage = document.getElementById('css-image')
- const cssImage = document.querySelectorAll('#css-image')
+//  const cssImage = document.querySelectorAll('#css-image')
 //  const cssImage = document.querySelector('.css-image')
 // const jsImage = document.querySelector('[sameer="software"]');
 // const ul = document.querySelector("ul");
 
 //  const imageInsideUl = ul.querySelector('.css-image')
-
+// debugger
 // const allImages = document.querySelectorAll("img");
 // console.log(document.querySelectorAll("img"));
 
@@ -30,3 +30,4 @@
 // allImages.forEach((image, i) => {
 //   image.src = imagesUrl[i];
 // });
+
