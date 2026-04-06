@@ -1,7 +1,7 @@
-// const h1 = document.querySelector("h1");
-// const container = document.querySelector(".container");
-// const firstImage =document.querySelector('img')
-// const paragraph = document.createElement('p')
+const h1 = document.querySelector("h1");
+const container = document.querySelector(".container");
+const firstImage =document.querySelector('img')
+const paragraph = document.createElement('p')
 
 
 // paragraph.innerText="hello"
@@ -11,25 +11,15 @@
 // container.appendChild(h1)
 // container.appendChild(h1.cloneNode(true))
 
+// ✅print multiple cards
 // const card = document.querySelector(".card");
-
-// container.appendChild(h1)
-// container.appendChild(h1.cloneNode(true))
 
 // for (let i = 2; i <= 100; i++) {
 //   const newCard = card.cloneNode();
 //   newCard.innerText = i;
 //   container.append(newCard);
+// }
 
-// container.appendChild(card)
-// container.appendChild(card.cloneNode(true))
-// 
-// }
-// for(let i = 2; i<=100; i++){
-//     const newCard = card.cloneNode(true)
-//     newCard.innerText = i;
-//     container.append(newCard)
-// }
 
 // ✅creat element
 // 1 april 26
@@ -39,9 +29,9 @@
 // paragraph.classList.add('my-class')
 // container.append(paragraph)
 
+// ✅ add pocky img
 
-
-// for(let i=1; i<=10; i++){
+// for(let i=1; i<=100; i++){
 //     const imgContainer =document.createElement('div')
 //     imgContainer.classList.add('img-container')
 //     const newImg = document.createElement('img')
@@ -56,12 +46,12 @@
 // ✅ childremove and remove
 
 
-const container = document.querySelector('.container')
-const card = document.querySelector('.card')
+// const container = document.querySelector('.container')
+// const card = document.querySelector('.card')
 
 // container.removeChild(card);
-let arr = [10, 20, 30, 40,50];
+// let arr = [10, 20, 30, 40,50];
 
 // arr.splice(1, 1);
 
-console.log(arr);
+// console.log(arr);
