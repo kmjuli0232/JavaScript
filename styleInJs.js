@@ -1,12 +1,12 @@
-// const h1 = document.querySelector("h1");
-// const paragraph = document.querySelector("p");
-// const allLinks = document.querySelectorAll("a");
+const h1 = document.querySelector("h1");
+const paragraph = document.querySelector("p");
+const allLinks = document.querySelectorAll("a");
 
-// console.log(h1.getAttribute("value"));
+console.log(h1.getAttribute("value"));
 
-// console.log(paragraph.innerHTML);
+console.log(paragraph.innerHTML);
 
-// paragraph.innerHTML = '<h4>Hiii</h4>'
+paragraph.innerHTML = '<h4>Hiii</h4>'
 
 // h1.style.color = "hotpink";
 // h1.style.backgroundColor = "skyblue";

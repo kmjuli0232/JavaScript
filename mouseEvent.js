@@ -1,6 +1,6 @@
-const heading = document.querySelector('h1')
+const heading = document.querySelector("h1");
 const addCardButton = document.querySelector(".card");
-const container = document.querySelector('.container')
+const container = document.querySelector(".container");
 
 let count = 0;
 
@@ -10,8 +10,6 @@ let count = 0;
 //     newcard.innerText= count++
 //     container.append(newcard)
 // })
-
-
 
 //    addCardButton.addEventListener('dblclick',(e)=>{
 //     console.log(e);
@@ -29,7 +27,6 @@ let count = 0;
 //     newCard.innerText = count++
 //     container.append(newCard)
 // })
-
 
 //👌  mouseup:- release the mouse button
 // addCardButton.addEventListener('mouseup', (e) => {
